@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EntrenoLab">
+  <defs>
+    <linearGradient id="el" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d4ed8" />
+      <stop offset="1" stop-color="#0f766e" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#el)" />
+  <g fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round">
+    <rect x="13" y="17" width="38" height="30" rx="3" opacity="0.95" />
+    <line x1="32" y1="17" x2="32" y2="47" opacity="0.6" />
+    <circle cx="32" cy="32" r="6" opacity="0.85" />
+    <path d="M13 24h5M13 32h5M13 40h5" opacity="0.75" />
+    <path d="M46 24h5M46 32h5M46 40h5" opacity="0.75" />
+  </g>
+</svg>

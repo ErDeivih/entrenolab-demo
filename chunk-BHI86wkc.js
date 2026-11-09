@@ -1,0 +1,1 @@
+var r=/[<>:"/\\|?*\u0000-\u001f]+/g;var t=/[()[\]]/g;function i(e){let n=(e??``).trim();return n&&n.normalize(`NFD`).replace(/[\u0300-\u036f]/g,``).replace(r,``).replace(t,``).trim().replace(/\s+/g,`-`).replace(/-+/g,`-`).toLowerCase()||`entrenolab-pizarra`}function l(e){return`${i(e)}.png`}export{l as n,i as t};

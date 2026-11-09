@@ -1,0 +1,25 @@
+{
+  "name": "EntrenoLab",
+  "short_name": "EntrenoLab",
+  "description": "EntrenoLab: planifica, dibuja y archiva tus entrenamientos.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "assets/brand/entrenolab-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/brand/entrenolab-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

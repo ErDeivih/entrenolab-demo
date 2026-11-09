@@ -1,0 +1,1 @@
+var e={production:!1,product:`commercial`,targetEnv:`local`,demo:!0,supabaseUrl:``,supabasePublishableKey:``,expectedBackendRef:``,expectedFrontendOrigin:``,capabilities:[`local-fixtures`,`catalog`],coachOrigin:``,telemetry:{enabled:!1,endpoint:``,sampleRate:1,consent:!1},ads:{enabled:!1,testCampaigns:!1},release:`demo-local-2026-11-09`};export{e as t};
